@@ -98,7 +98,8 @@ const game = () => {
             }
         }
     } 
-    
+    startGame();
+    playMatch();
 
         
     
