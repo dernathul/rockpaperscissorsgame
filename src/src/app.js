@@ -18,7 +18,7 @@ const game = () => {
         const playerHand = document.querySelector('.player-hand');
         const computerHand = document.querySelector('.computer-hand');
         const hands = document.querySelector('.hand img');
-        hands.forEach(hanf => {
+        hands.forEach(hand => {
             hand.addEventListener('animationend', function(){
                 this.style.aniimation = '';
             })
@@ -102,9 +102,6 @@ const game = () => {
 
         
     
-    startGame();
-    playMatch();
+  
     
 };
-
-game();
