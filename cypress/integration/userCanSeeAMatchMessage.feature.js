@@ -1,4 +1,4 @@
-describe('BMI Calculator', () => {
+describe('result message', () => {
     beforeEach(() => {
       cy.visit('http://localhost:3001');
       cy.get('#message').should('contain', 'Computer Wins');
