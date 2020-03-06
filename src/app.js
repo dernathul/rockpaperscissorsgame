@@ -70,7 +70,7 @@ const game = ()=> {
         return;
       }
     }
-
+//hshdshdhdhd
     if (playerChoice === "paper") {
       if (computerChoice === "scissors") {
         winner.textContent = "Computer Wins";
