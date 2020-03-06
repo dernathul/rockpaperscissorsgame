@@ -17,10 +17,11 @@ const game = ()=> {
     const options = document.querySelectorAll(".options button");
     const playerHand = document.querySelector(".player-hand");
     const computerHand = document.querySelector(".computer-hand");
-    const hands = document.querySelector(".hand img");
+
+    const hands = document.querySelectorAll(".hand");
     hands.forEach(hand => {
       hand.addEventListener("animationend", function() {
-        this.style.aniimation = "";
+        this.style.animation = "";
       });
     });
     const computerOptions = ["rock", "paper", "scissors"];
@@ -35,15 +36,15 @@ const game = ()=> {
           computerHand.src = `./assets/${computerChoice}.png`;
         }, 2000);
 
-        playerHand.style.animation = "shakePlayer 1s ease";
-        computerHand.style.animation = "shakeComputer 1s ease";
+        playerHand.style.animation = "shakePlayer 2s ease";
+        computerHand.style.animation = "shakeComputer 2s ease";
       });
     });
   };
 
   const updateScore = () => {
-    const playerScore = document.querySelector("player-score p");
-    const computerScore = document.querySelector("computer-score p");
+    const playerScore = document.querySelector(".player-score p");
+    const computerScore = document.querySelector(".computer-score p");
     playerScore.textContent = pScore;
     computerScore.textContent = cScore;
   };
