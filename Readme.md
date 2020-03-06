@@ -11,6 +11,8 @@ When my deadline was getting closer and by the overload of work in the  bootcamp
 Yesterday, i try a different approach. I follow some instructions from a coach in a video, outside school, and o followed trough, just to discover that present more problems than solutions, nonetheless i manage to make it work, with minumun requirement, i still have so much to figure out but the game is running. It was more difficult than working with legacy code, because i have to troubleshoot the app manually, because my tests didn´t run. Now is 6:56 am and i honestly think i gave it all from my position to complete this "monumental task", that probably in some weeks is going to be silly and easy, because of the accelerated learning process of the bootcamp.
 Thank you for the oportunity.
 
+The hardest part of this challenge was to code without clear instructions, free ranche sucks! XD
+
 -----------------------------------------------------------------------------------------------------------------
 USER STORIES
 -----------------------------------------------------------------------------------------------------------------
