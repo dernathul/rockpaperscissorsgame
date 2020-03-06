@@ -32,6 +32,15 @@ in order to count my victories
 i need to see a match counter
 
 -----------------------------------------------------------------------------------------------------------------
+SPECIAL THANKS
 -----------------------------------------------------------------------------------------------------------------
+Dev Ed Channel in Youtube by coachin me when nobody else was available
+Carlos Delgado by being the best rubber duck ever
+gsk Pharmaceuticals for the Alvedon that help me to keep going
+
+
+
+
+
 
 
